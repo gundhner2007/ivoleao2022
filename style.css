@@ -1,7 +1,9 @@
 body {
-    background: rgb(243, 146, 206);
+    background: rgb(241, 236, 239);
 }
 
+#banner {
+    width:100%
 h1 {
     color: rgb(249, 249, 252);
     text-align: center;
