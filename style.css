@@ -16,3 +16,15 @@ h1 {
 p {
     text-align: center;
 }
+
+em strong {
+    color: rgb(240, 196, 240);
+}
+
+.itens {
+    font-style:italic
+}
+
+.vantagens {
+    background: #FFFFFF;
+}
